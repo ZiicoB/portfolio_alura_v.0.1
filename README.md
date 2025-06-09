@@ -20,7 +20,7 @@ Apresentar a transformação de um projeto básico (modelo do curso da Alura) em
 ## 📌 Versão inicial
 
 <img src="Prints/Home_V0.1.jpeg" alt="home" width="500"/>  <img src="Prints/Sobre_V0.1.jpeg" alt="sobre" width="480"/>
-
+https://ziicob.github.io/portfolio_alura_v0_1/
 ## 📚 Créditos
 
 O projeto teve como base inicial o modelo fornecido pela [Alura](https://cursos.alura.com.br/) durante um curso.  
