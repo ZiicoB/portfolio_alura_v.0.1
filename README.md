@@ -19,8 +19,7 @@ Apresentar a transformação de um projeto básico (modelo do curso da Alura) em
 
 ## 📌 Versão inicial
 
-![home]()  
-![sobre]()
+<img src="Prints/Home_V0.1.jpeg" alt="home" width="500"/>  <img src="Prints/Sobre_V0.1.jpeg" alt="sobre" width="480"/>
 
 ## 📚 Créditos
 
